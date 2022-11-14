@@ -1,0 +1,17 @@
+.notFound{
+    height: 80vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.notFound h1{
+    font-size: 8em;
+    font-weight: 400;
+    margin-bottom: -30px;
+}
+
+.notFound h3{
+    font-size: 25px;
+}

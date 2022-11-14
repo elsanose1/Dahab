@@ -1,0 +1,63 @@
+.navbar{
+    position: fixed;
+    padding: 5px 15px;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 100;
+    height: 94px;
+    background-color : #0000005c;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    color: white;
+    transition: ease-in-out 0.3s all;
+}
+
+.top{
+    background-color : #424242;
+}
+
+.logo{
+    font-size: 28px;
+    user-select: none;
+    font-weight: 600;
+    cursor: pointer;
+}
+.logo span{
+    font-size: 40px;
+    font-weight: 800;
+    color: #F2D388;
+}
+
+.navbar .mune{
+    flex: 3;
+    max-width: 70%;
+    display: flex;
+    list-style: none;
+    justify-content: space-around;
+    font-size: 20px;
+    font-weight: bold;
+}
+.navbar .mune li{
+    cursor: pointer;
+    user-select: none;
+    position: relative;
+
+}
+.mune li::before{
+    content: "";
+    height: 2.3px;
+    position: absolute;
+    bottom: 0;
+    transition: ease-in-out  0.4s all;
+    width: 0;
+    background-color: white;
+
+}
+.mune li:hover::before{
+    width: 100%;
+    background-color: #F2D388;
+
+
+}

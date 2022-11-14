@@ -1,0 +1,54 @@
+.footer{
+    height: 30vh;
+    background-color: #424242;
+    color: white;
+    display: flex;
+    padding: 20px 10px;
+}
+
+.logo-column{
+    color: white;
+    flex: 2;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 45px;
+    font-weight: 800;
+
+}
+.logo-column span{
+    color: #f2d388;
+    font-size: 70px;
+}
+
+.usful-links{
+    flex: 5;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.usful-links h3{
+    font-size: 24px;
+    color: #f2d388;
+    font-weight: 700;
+}
+
+.usful-links ul{
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    width: 400px;
+    gap: 0 ;
+    flex-wrap: wrap;
+    text-align: center;
+}
+.usful-links ul li{
+    width: 50%;
+    margin-top: 10px;
+    cursor: pointer;
+}
+
+.usful-links ul li:hover{
+    color: #f2d388;
+}

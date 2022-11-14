@@ -1,0 +1,54 @@
+[
+    {
+        "name" : "Al Azhar mosque",
+        "details" : "As for the history of building Al-Azhar Mosque, we find that it was built during the time period of the Fatimid state in Egypt, which was opened by Jawhar Al-Siqilli in the year 969 AD. A number of changes have taken place in the mosque as a kind of development and restoration.",
+        "cat" : "reg",
+        "img" : "https://cdn.pixabay.com/photo/2017/05/07/13/59/al-azhar-2292512_960_720.jpg"
+    },
+    {
+        "name" : "Mohamed Ali Mosque",
+        "details" : "The Mosque of Muhammad Ali is considered one of the most prominent mosques of an archaeological nature in Cairo, if not the most famous, and Pasha Muhammad Ali built this mosque to be similar to the Ottoman style in design.",
+        "cat" : "reg",
+        "img" : "https://media.gettyimages.com/id/1364251135/photo/the-mosque-of-muhammed-ali-pasha-in-cairo-egypt.jpg?s=612x612&w=0&k=20&c=SiPmZX5XISxhsG7P7YU5D57xBQgsz_FFEizRXNlWmWs="
+    },
+    {
+        "name" : "Saint George's Church",
+        "details" : "Built on the ruins of the Roman fortress of Babylon, this small domed Greek Orthodox church in Coptic Cairo, with its low lights and lines of candles glowing by the altar, is one of the most impressive in all of Cairo.",
+        "cat" : "reg",
+        "img" : "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Inside_and_outside_the_Church_of_St._George_and_Hanging_Church_07.JPG/1280px-Inside_and_outside_the_Church_of_St._George_and_Hanging_Church_07.JPG"
+    },
+    {
+        "name" : "Saint Anthony's Monastery",
+        "details" : "This ancient monastery is located in the midst of the picturesque scenery of the remote Red Sea coast. Built on a site near the Anthony's Cave where his followers camped, the church is decorated with some of the richest Coptic art in the world.",
+        "cat" : "reg",
+        "img" :"https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/MonasteroAntonio2.jpg/1280px-MonasteroAntonio2.jpg"
+    },
+    {
+        "name" : "Grand Egyptian Museum",
+        "details" : "The construction of the museum, carried out by a joint venture established by Belgian company BESIX Group and Egyptian contractor Orascom Construction, was originally scheduled to be completed in 2021",
+        "cat" : "cul",
+        "img" : "https://media.gettyimages.com/id/1135545552/photo/this-picture-taken-on-april-7-2019-shows-the-colossus-of-ancient-egyptian-pharaoh-ramesses-ii.jpg?s=612x612&w=gi&k=20&c=d3ma20hWhIjhmGai5FzlGJKIEDDwr2duQNPiWLMLN6Y="
+    },
+    {
+        "name" : "Egyptian Opera House",
+        "details" : "The Egyptian Opera House is located in Cairo, and is a magnet for tourists because of several cultural centers, such as: the Arts Center, the Creativity Center, the important music library, in addition to several theaters characterized by unique artistic performances.",
+        "cat" : "cul",
+        "img" : "https://upload.wikimedia.org/wikipedia/commons/c/c3/Cairo_opera_house.jpg"
+    },
+    {
+        "name" : "Giza Pyramids",
+        "details" : "The Pyramids of Giza are located in the Giza area, and the pyramids are among the seven wonders of the world and are full of history, civilizations and culture, and tourists from all over the world come to visit the Sphinx, the Great Pyramid, in addition to the Saqqara area.",
+        "cat" : "cul",
+        "img" : "https://media.gettyimages.com/id/1361462257/photo/great-pyramid-of-cheops-at-sunset-giza-cairo-egypt.jpg?s=612x612&w=0&k=20&c=vOnawdQezPjbjuG0QZ0S68Zb0EyXYbJwO3DNfuC0Ep0="
+    },
+    {
+        "name" : "Tell el-Amarna area",
+        "details" : "The Amarna area is one of the most important areas visited by tourists, as it contains cemeteries and historical and cultural areas that are interesting for tourists and full of stories.",
+        "cat" : "cul",
+        "img" : "https://egyptsites.files.wordpress.com/2009/02/northern-1.jpg?w=584"
+    },{
+        "name" : "hussien",
+        "details" : "dddd",
+        "cat" : "rec"
+    }
+]
