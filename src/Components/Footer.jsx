@@ -1,10 +1,18 @@
 import React from 'react'
+import { Link } from 'react-router-dom'
 import "./Footer.css"
+
+const linkStyle = { 
+  textDecoration: "none",
+  color: "white",
+}
 
 const Footer = () => {
   return (
     <footer className='footer'>
-        <div className='logo-column'><span>D</span>ahab</div>
+        <Link to='/' style={linkStyle}>
+          <div className='logo-column'><span>D</span>ahab</div>
+        </Link>
         <div className="usful-links">
             <h3>Useful Links</h3>
             <ul>

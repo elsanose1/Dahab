@@ -65,7 +65,7 @@ const Home = () => {
             <form className="contact-form">
               <input type="text" placeholder='First Name' />
               <input type="text" placeholder='Last Name' />
-              <input type="email" placeholder="What's your email" />
+              <input type="email"  placeholder="What's your email" />
               <textarea placeholder='Your question...'></textarea>
               <button>SEND MESSAGE</button>
             </form>

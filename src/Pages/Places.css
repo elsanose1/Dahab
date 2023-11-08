@@ -23,6 +23,14 @@
     transition: all ease-in-out 0.3s;
     cursor: pointer;
 }
+.searchBar{
+    width: 250px;
+    height: 40px;
+    border-radius: 20px;
+    outline: none;
+    border: gray 1px solid;
+    text-indent: 15px;
+}
 
 .active{
     background-color: #424242;

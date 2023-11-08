@@ -4,6 +4,7 @@
     color: white;
     display: flex;
     padding: 20px 10px;
+
 }
 
 .logo-column{
@@ -14,11 +15,13 @@
     align-items: center;
     font-size: 45px;
     font-weight: 800;
+    user-select: none;
 
 }
 .logo-column span{
     color: #f2d388;
     font-size: 70px;
+
 }
 
 .usful-links{
